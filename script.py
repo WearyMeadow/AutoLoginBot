@@ -9,11 +9,11 @@ import os
 ###########################################################
 
 #enter the link to the website you want to automate login.
-website_link=""
+website_link="ys.mihoyo.com"
 #enter your login username
-username=""
+username="WearyMeadow"
 #enter your login password
-password=""
+password="WearyMeadowssecretp@ss"
 
 ###########################################################
 

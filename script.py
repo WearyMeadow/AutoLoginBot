@@ -13,7 +13,7 @@ website_link="ys.mihoyo.com"
 #enter your login username
 username="WearyMeadow"
 #enter your login password
-password="WearyMeadowssecretp@ss"
+password=""
 
 ###########################################################
 
